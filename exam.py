@@ -1,10 +1,11 @@
-a = float(input("enter the value ")
-b = float(input("enter the value ")
-          sum = a+b
+a = float(input("enter the value "))
+b = float(input("enter the value "))
+          
           remainder = a-b
           product = a*b
-          quotent = a/b 
-          print(sum)
+          quotent = a/b
+          add = a+b
           print(remainder)
           print(product)
           print(quotent)
+          print(add)
